@@ -1159,8 +1159,8 @@
 				<description>LOGO</description>
 				<left>10</left>
 				<top>5</top>
-				<width>160</width>
-				<height>40</height>
+				<width>150</width>
+				<height>38</height>
 				<aspectratio aligny="top" align="left">keep</aspectratio>
 				<texture>fusionbox-logo.png</texture>
 				<include>VisibleFadeEffect</include>
